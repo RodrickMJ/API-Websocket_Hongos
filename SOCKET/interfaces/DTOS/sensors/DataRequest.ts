@@ -1,4 +1,5 @@
 export default interface SensorDataRequest {
+    id_plant: string,
     luz1: number,
     luz2: number,
 
